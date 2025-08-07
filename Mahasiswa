@@ -1,0 +1,32 @@
+{
+  "mahasiswa pertma"
+  [
+    {
+        "nama": Salma salsa billa,
+        "NIM": 11234,
+        "kelas": empat d,
+        "absen": 01
+    }
+  ],
+  
+  "mahasiswa kedua"
+  [
+    {
+        "nama": muhammad jafar siddik,
+        "NIM": 11235,
+        "kelas": empat d,
+        "absen": 02
+    }
+  ],
+
+  "mahasiswa ketiga"
+  [
+    {
+        "nama": muhammad jalaludin firmansyah,
+        "NIM": 11236,
+        "kelas": empat d,
+        "absen": 03
+    }
+  ]
+
+}
