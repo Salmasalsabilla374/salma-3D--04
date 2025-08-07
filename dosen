@@ -1,0 +1,31 @@
+{
+    "dosen pertama"
+    [
+        {
+            "nama": bu siti maryam,
+            "matkul": pengantar ilmu perpustakaan,
+            "hari": senin,
+            "jam": 07.30
+        }
+    ],
+
+     "dosen kedua"
+     [
+        {
+            "nama": pak amir,
+            "matkul": ppkn,
+            "hari": senin,
+            "jam": 10.00
+        }
+     ],
+
+     "dosen ketiga"
+     [
+        {
+            "nama": pak saidun,
+            "matkul": studi islam,
+            "hari": senin,
+            "jam": 01.00
+        }
+     ]
+}
